@@ -8,4 +8,4 @@ This project prints a left-aligned triangle (pyramid) of stars (`*`) based on us
 - A nested loop prints the star pattern in a left-aligned triangle form.
 
 ## 💻 Example Output
-(screenshots/screenshot1.png)
+screenshots/screenshot1.png
